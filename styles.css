@@ -1,0 +1,19 @@
+*{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+#select-container{
+    display: flex;
+    justify-content: center;
+}
+
+#cards{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 9px;
+}
